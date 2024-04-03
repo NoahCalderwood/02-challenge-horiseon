@@ -15,6 +15,7 @@ N/A
 
 ## Usage
 Github Repo: https://github.com/NoahCalderwood/02-challenge-horiseon
+
 Deployed Webpage: https://noahcalderwood.github.io/02-challenge-horiseon
 
 ## Credits
